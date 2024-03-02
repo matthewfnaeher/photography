@@ -6,12 +6,12 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Photos from Matthew F Naeher"
+subtitle: "Photos from here and there."
+author: "Matthew F Naeher"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by Matthew Naeher"
 footer:
  name: "Hi all, my name is Matt"
  bio: "I am an American working in quantitative analytics in banking."
